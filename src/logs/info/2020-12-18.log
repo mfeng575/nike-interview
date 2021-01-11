@@ -1,0 +1,9 @@
+2020-12-18 04:24:46 info: 🚀 App listening on the port 3000
+2020-12-18 04:24:46 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2020-12-18 04:25:20 info: [0mGET /api-docs [36m301[0m 10.932 ms - 183[0m
+2020-12-18 04:25:20 info: [0mGET /api-docs/ [32m200[0m 6.624 ms - -[0m
+2020-12-18 04:25:20 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 1.291 ms - -[0m
+2020-12-18 04:25:20 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 5.336 ms - -[0m
+2020-12-18 04:25:21 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 18.310 ms - -[0m
+2020-12-18 04:25:21 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 6.585 ms - -[0m
+2020-12-18 04:25:21 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 2.608 ms - 628[0m

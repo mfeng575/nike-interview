@@ -1,0 +1,8 @@
+2020-12-17 22:26:54 info: 🚀 App listening on the port 3000
+2020-12-17 22:26:54 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2020-12-17 22:27:06 info: ::1 - - [18/Dec/2020:04:27:06 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 200 628 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"

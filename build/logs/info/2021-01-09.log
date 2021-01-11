@@ -1,0 +1,43 @@
+2021-01-09 15:32:44 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:44 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:32:44 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:44 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:32:44 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:44 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:32:49 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:53 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:37:53 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:53 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:37:53 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:53 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:53 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:37:57 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:35 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:59:35 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:35 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:59:35 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:35 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:35 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:59:38 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:02:19 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 16:02:19 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:02:19 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 16:02:19 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:02:19 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:02:19 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 16:02:21 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:07:33 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:09:11 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:10:54 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:12:28 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:21:02 info: 🚀 App listening on the port 3000
+2021-01-09 16:21:14 info: ::1 - - [09/Jan/2021:22:21:14 +0000] "POST /htmlcontent HTTP/1.1" 201 118 "-" "PostmanRuntime/7.26.8"
+2021-01-09 16:21:25 info: ::1 - - [09/Jan/2021:22:21:25 +0000] "POST /htmlcontent HTTP/1.1" 201 121 "-" "PostmanRuntime/7.26.8"
+2021-01-09 16:21:33 info: ::1 - - [09/Jan/2021:22:21:33 +0000] "POST /htmlcontent HTTP/1.1" 201 94 "-" "PostmanRuntime/7.26.8"
+2021-01-09 16:21:45 info: ::1 - - [09/Jan/2021:22:21:45 +0000] "POST /htmlcontent HTTP/1.1" 201 118 "-" "PostmanRuntime/7.26.8"
+2021-01-09 16:21:52 info: ::1 - - [09/Jan/2021:22:21:52 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2021-01-09 16:21:52 info: ::1 - - [09/Jan/2021:22:21:52 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2021-01-09 16:21:53 info: ::1 - - [09/Jan/2021:22:21:53 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2021-01-09 16:21:53 info: ::1 - - [09/Jan/2021:22:21:53 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2021-01-09 16:21:53 info: ::1 - - [09/Jan/2021:22:21:53 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+2021-01-09 16:22:16 info: ::1 - - [09/Jan/2021:22:22:16 +0000] "POST /htmlcontent HTTP/1.1" 201 118 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"

@@ -1,0 +1,25 @@
+2021-01-09 15:32:47 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:32:47 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:47 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:47 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:32:47 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:32:47 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:32:51 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:55 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:37:55 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:55 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:37:55 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:55 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:37:55 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:37:56 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:37 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:59:37 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:37 error: StatusCode : 500, Message : No repository for "UserEntity" was found. Looks like this entity is not registered in current "default" connection?
+2021-01-09 15:59:37 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:37 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 15:59:37 error: StatusCode : 404, Message : Authentication token missing
+2021-01-09 15:59:39 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:02:26 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:07:38 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:09:09 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-09 16:10:52 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.

@@ -1,0 +1,43 @@
+2021-01-08 17:23:00 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 17:30:06 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:01:31 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:02:04 error: StatusCode : 400, Message : Invalid input
+2021-01-08 18:08:14 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:09:30 error: StatusCode : 400, Message : Invalid input
+2021-01-08 18:09:51 error: StatusCode : 400, Message : Invalid input
+2021-01-08 18:12:32 error: StatusCode : 400, Message : Invalid input
+2021-01-08 18:13:41 error: StatusCode : 400, Message : Invalid input
+2021-01-08 18:35:03 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:36:19 error: StatusCode : 500, Message : Cannot read property 'forEach' of undefined
+2021-01-08 18:37:22 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:37:44 error: StatusCode : 500, Message : subValuePairs.forEach is not a function
+2021-01-08 18:41:24 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 18:42:31 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 20:04:18 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 20:04:40 error: StatusCode : 400, Message : Unexpected string in JSON at position 422
+2021-01-08 20:08:22 error: StatusCode : 400, Message : Unexpected token  in JSON at position 40
+2021-01-08 20:10:15 error: StatusCode : 400, Message : Unexpected token  in JSON at position 21
+2021-01-08 20:58:07 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:00:39 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:06:57 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:08:03 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:14:44 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:20:10 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:24:14 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:27:47 error: StatusCode : 500, Message : Cannot read property 'length' of null
+2021-01-08 21:29:16 error: StatusCode : 500, Message : Cannot read property 'length' of null
+2021-01-08 21:30:47 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:39:11 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:39:57 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:42:11 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:48:11 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:50:09 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:51:05 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:52:59 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:54:23 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:55:38 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:57:42 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 21:58:45 error: StatusCode : 400, Message : email must be an email, password must be a string
+2021-01-08 21:59:54 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 22:01:12 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.
+2021-01-08 22:02:37 error: 🔴 Unable to connect to the database: Error: connect ECONNREFUSED 127.0.0.1:5432.

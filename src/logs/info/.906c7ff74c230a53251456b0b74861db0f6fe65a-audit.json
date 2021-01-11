@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Personal\\nike\\emailServer\\src\\logs\\info\\.906c7ff74c230a53251456b0b74861db0f6fe65a-audit.json",
+    "files": [
+        {
+            "date": 1610227967190,
+            "name": "C:\\Personal\\nike\\emailServer\\src\\logs\\info\\2021-01-09.log",
+            "hash": "ceebbb10823989c118cbd2fd00cb29d0"
+        },
+        {
+            "date": 1610332851322,
+            "name": "C:\\Personal\\nike\\emailServer\\src\\logs\\info\\2021-01-10.log",
+            "hash": "cff7a372c55611104d0d7baa95f1858e"
+        }
+    ]
+}

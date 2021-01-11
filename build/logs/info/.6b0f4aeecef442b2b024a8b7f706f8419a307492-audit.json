@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Personal\\nike\\emailServer\\build\\logs\\info\\.6b0f4aeecef442b2b024a8b7f706f8419a307492-audit.json",
+    "files": [
+        {
+            "date": 1610148606188,
+            "name": "C:\\Personal\\nike\\emailServer\\build\\logs\\info\\2021-01-08.log",
+            "hash": "d66587a5fed2ea6722ec78e0bc49f016"
+        },
+        {
+            "date": 1610227963629,
+            "name": "C:\\Personal\\nike\\emailServer\\build\\logs\\info\\2021-01-09.log",
+            "hash": "ed6b5d60e835dfe69250e8f7795671c0"
+        },
+        {
+            "date": 1610332854321,
+            "name": "C:\\Personal\\nike\\emailServer\\build\\logs\\info\\2021-01-10.log",
+            "hash": "cbd6405aa9439bfff704a622ac2591d9"
+        }
+    ]
+}

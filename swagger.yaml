@@ -1,0 +1,51 @@
+tags:
+- name: Nike HTML CONTENT
+  description: HTML Rendering API
+
+paths:
+# [POST] htmlcontent
+  /htmlcontent:
+    post:
+      tags:
+      - htmlContent
+      summary: Render HTML content
+      parameters:
+      - name: body
+        in: body
+        description: html Content Data
+        required: true
+        schema:
+          $ref: '#/definitions/htmlcontent'
+      responses:
+        201:
+          description: 'Processed'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+
+# definitions
+definitions:
+  htmlcontent:
+    type: object
+    required:
+        - template
+        - input
+        - output
+    properties:
+      template:
+        type: array of string or Template object
+        description: template with simple string or object(string and fallback text)
+      input:
+        type: string
+        description: json string of all the sub key/value pairs
+      out:
+        type: array of string
+        description: rendered string after substitution
+
+schemes:
+ - https
+ - http

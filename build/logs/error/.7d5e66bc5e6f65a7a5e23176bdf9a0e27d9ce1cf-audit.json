@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Personal\\ow\\poc\\mathserver\\build\\logs\\error\\.7d5e66bc5e6f65a7a5e23176bdf9a0e27d9ce1cf-audit.json",
+    "files": [
+        {
+            "date": 1608265613992,
+            "name": "C:\\Personal\\ow\\poc\\mathserver\\build\\logs\\error\\2020-12-17.error.log",
+            "hash": "d52176c986324b54013c41d796004d80"
+        },
+        {
+            "date": 1608523499115,
+            "name": "C:\\Personal\\ow\\poc\\mathserver\\build\\logs\\error\\2020-12-20.error.log",
+            "hash": "17f14eec47c0c4d4b762e7eaf59fad72"
+        },
+        {
+            "date": 1610148179447,
+            "name": "C:\\Personal\\ow\\poc\\mathserver\\build\\logs\\error\\2021-01-08.error.log",
+            "hash": "b04104a7fe31a6baa4c99ab7346c15de"
+        }
+    ]
+}
